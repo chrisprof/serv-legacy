@@ -1,0 +1,56 @@
+
+
+#Back-Tutorial {
+    display:flex;
+    border-width: 5px;
+    margin: 20px;
+    flex-direction: column;
+    padding-left:30px;
+    flex-wrap:wrap; 
+    padding-right: 30px;
+}
+
+
+
+.A-Breaker {
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: var(--clr-purple200);
+    background-color: var(--clr-purple200)
+}
+
+#User-guide {
+    margin-bottom: 0px;
+    color: var(--clr-primary-dark);
+}
+
+#T-Image {
+    width: auto;
+    height: 370px;
+    float: right;
+    padding-bottom: 10px;
+    padding-right: 220px
+}
+
+#S-Image {
+    width: 150px;
+    height: auto;
+    float: right;
+    padding-right: 200px
+}
+
+.T-Purp {
+    padding-top: 10px;
+    color: white;
+    text-align: left;
+}
+
+
+.T-text {
+    color: var(--clr-purple200);
+}
+
+.T-h3 {
+    padding-left: 50px;
+    font-weight:400;
+}

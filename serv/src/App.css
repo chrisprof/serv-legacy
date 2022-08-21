@@ -1,0 +1,27 @@
+:root {
+    --clr-primary: #6a70ee;
+    --clr-primary-hover: #3629e6;
+    --clr-primary-dark: #5449b3;
+    --clr-purple100: #6870a6;
+    --clr-purple200: #34325d;
+    --clr-darkpurple: #230b49;
+    --radius: 0.2rem;
+}
+
+html{
+    width:100%;
+}
+
+body {
+    scrollbar-color:black;
+    margin:0;
+    width:100%;
+    font-family: Segoe UI;
+    background: var(--clr-purple100);
+    color:white;
+}
+
+#root{
+    height:100%;
+}
+
